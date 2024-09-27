@@ -1,3 +1,11 @@
 venv
 roll_numbers_real.txt
 results
+results.json
+results.xlsx
+settings.json
+.ipynb_checkpoints
+
+
+# Playground Python notebook
+excel-generator.ipynb
